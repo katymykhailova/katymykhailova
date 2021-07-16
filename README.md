@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://komarev.com/ghpvc/?username=kotikm81&color=blue">
+<a href="https://github.com/kotikm81?tab=followers">
 
 <h1 align="center">Hi! My name's  Kateryna👋</h2>
 <h2 align="center">💬 About</h2>
