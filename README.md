@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 -->
 <img src="https://komarev.com/ghpvc/?username=kotikm81&color=blue">
 <a href="https://github.com/kotikm81?tab=followers">
+  <img src="https://img.shields.io/github/followers/kotikm81.svg?style=social&label=Follow&maxAge=2592000" />
+</>
 
 <h1 align="center">Hi! My name's  Kateryna👋</h2>
 <h2 align="center">💬 About</h2>
 <p>Junior Front-End developer</p>
-
-<a href="https://github.com/kotikm81?tab=followers">
-  <img src="https://img.shields.io/github/followers/kotikm81.svg?style=social&label=Follow&maxAge=2592000" />
-</>
 
 <div>
   <h3>Tech Skills</h3>
