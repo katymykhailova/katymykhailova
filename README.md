@@ -35,13 +35,7 @@ Here are some ideas to get you started:
       <span class="sidebar-text">JavaScript Es6+</span>
     </li>
     <li>
-      <span class="sidebar-text">React.js</span>
-    </li>
-    <li>
-      <span class="sidebar-text">React router</span>
-    </li>
-    <li>
-      <span class="sidebar-text">React hooks</span>
+      <span class="sidebar-text">React.jsб/React router/React hooks</span>
     </li>
     <li>
       <span class="sidebar-text">Redux</span>
