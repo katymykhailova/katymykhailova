@@ -35,7 +35,7 @@ Here are some ideas to get you started:
       <span class="sidebar-text">React.js/React router/React hooks</span>
     </li>
     <li>
-      <span class="sidebar-text">Redux</span>
+      <span class="sidebar-text">Redux/Redux Toolkit/Async Redux</span>
     </li>
     <li>
       <span class="sidebar-text">WebPack</span>
