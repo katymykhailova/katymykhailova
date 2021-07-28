@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi! My name's  Kateryna👋</h2>
 <h2 align="center">💬 About</h2>
-<p>Junior Front-End developer</p>
+<p>Front-End developer</p>
 
 <div>
   <h3>Tech Skills</h3>
