@@ -44,6 +44,9 @@ Here are some ideas to get you started:
       <span class="sidebar-text">Parcel</span>
     </li>
     <li>
+      <span class="sidebar-text">Handlebars</span>
+    </li>    
+    <li>
       <span class="sidebar-text">REST API</span>
     </li>
     <li>
