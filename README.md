@@ -53,7 +53,7 @@ Here are some ideas to get you started:
       <span class="sidebar-text">NPM </span>
     </li>
     <li>
-      <span class="sidebar-text">Formik/Yup/React Hook Form/Axios/Emotion/others...</span>
+      <span class="sidebar-text">Formik/Yup/React Hook Form/Axios/Emotion/Material-UI/Bootstrap/others...</span>
     </li>
     <li>
       <span class="sidebar-text">Figma </span>
