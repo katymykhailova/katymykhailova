@@ -141,5 +141,20 @@ Here are some ideas to get you started:
         <b>]</b></span
       >
     </li>
+    <li>
+      <a
+        target="blanc"
+        href="https://ktm-phonebook.netlify.app/"
+        >Phonebook /react/redux/</a
+      >
+      <span class="dots">........</span>
+      <span
+        ><b>[</b>
+        <span class="tech-name">
+          HTML5, CSS3, JavaScript, Axios, React.js, React router, React hooks, Redux, Redux Toolkit, Async Thunk, Material-UI
+         </span>
+        <b>]</b></span
+      >
+    </li>
   </ol>
 </div>
