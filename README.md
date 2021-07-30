@@ -91,7 +91,7 @@ Here are some ideas to get you started:
         href="https://kotikm81.github.io/goit-markup-hw-final/"
         >Web Studio</a
       >
-      <span class="dots">..................</span>
+      <span class="dots">............................</span>
       <span
         ><b>[</b> <span class="tech-name">HTML5, CSS3, SASS, BEM</span>
         <b>]</b></span
@@ -103,7 +103,7 @@ Here are some ideas to get you started:
         href="https://kotikm81.github.io/codehunters-team-proj/"
         >HellEN</a
       >
-      <span class="dots">............................</span>
+      <span class="dots">......................................</span>
       <span
         ><b>[</b>
         <span class="tech-name">HTML5, CSS3, SASS, BEM</span>
@@ -116,7 +116,7 @@ Here are some ideas to get you started:
         href="https://kotikm81.github.io/ddt-js-project/index.html"
         >Filmoteka</a
       >
-      <span class="dots"></span>......................<span>
+      <span class="dots"></span>................................<span>
       <span
         ><b>[</b>
         <span class="tech-name"
@@ -131,7 +131,7 @@ Here are some ideas to get you started:
         href="https://ktm-goit-react-hw-05-movies.netlify.app/"
         >Filmoteka /react/</a
       >
-      <span class="dots">........</span>
+      <span class="dots">..................</span>
       <span
         ><b>[</b>
         <span class="tech-name"
