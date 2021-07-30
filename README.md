@@ -147,7 +147,7 @@ Here are some ideas to get you started:
         href="https://ktm-phonebook.netlify.app/"
         >Phonebook /react/redux/</a
       >
-      <span class="dots">........</span>
+      <span class="dots">...........</span>
       <span
         ><b>[</b>
         <span class="tech-name">
