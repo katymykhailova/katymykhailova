@@ -151,7 +151,7 @@ Here are some ideas to get you started:
       <span
         ><b>[</b>
         <span class="tech-name">
-          HTML5, CSS3, JavaScript, Axios, React.js, React router, React hooks, Redux, Redux Toolkit, Async Thunk, Material-UI
+          HTML5, CSS3, JavaScript, Axios, React.js, React router, React hooks, Redux, Redux Toolkit, Async Thunk, Material-UI, React Hook Form, Yup
          </span>
         <b>]</b></span
       >
