@@ -88,7 +88,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://kotikm81.github.io/goit-markup-hw-final/"
+        href="https://katymykhailova.github.io/goit-markup-hw-final/"
         >Web Studio</a
       >
       <span class="dots">......................................</span>
