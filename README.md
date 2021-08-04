@@ -100,7 +100,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://kotikm81.github.io/codehunters-team-proj/"
+        href="https://katymykhailova.github.io/codehunters-team-proj/"
         >HellEN</a
       >
       <span class="dots">................................................</span>
