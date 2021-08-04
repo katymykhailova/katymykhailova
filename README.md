@@ -113,7 +113,7 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
-        href="https://kotikm81.github.io/ddt-js-project/index.html"
+        href="https://katymykhailova.github.io/ddt-js-project/"
         >Filmoteka</a
       >
       <span class="dots"></span>..........................................<span>
