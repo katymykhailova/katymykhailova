@@ -1,7 +1,7 @@
 
 
 <!--
-**kotikm81/kotikm81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**katymykhailova/katymykhailova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kotikm81&color=blue">
+<img src="https://komarev.com/ghpvc/?username=katymykhailova&color=blue">
 </div>
 
 <h1 align="center">Hi! My name's  Kateryna👋</h2>
