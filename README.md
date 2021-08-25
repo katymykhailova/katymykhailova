@@ -38,6 +38,9 @@ Here are some ideas to get you started:
       <span class="sidebar-text">Redux/Redux Toolkit/Async Redux</span>
     </li>
     <li>
+      <span class="sidebar-text">Vue.js/Vue router</span>
+    </li>
+    <li>
       <span class="sidebar-text">WebPack</span>
     </li>
     <li>
