@@ -150,7 +150,7 @@ Here are some ideas to get you started:
         href="https://ktm-filmoteka.netlify.app/"
         >Filmoteka /Vue/</a
       >
-      <span class="dots">............................</span>
+      <span class="dots">..............................</span>
       <span
         ><b>[</b>
         <span class="tech-name"
