@@ -147,6 +147,21 @@ Here are some ideas to get you started:
     <li>
       <a
         target="blanc"
+        href="https://ktm-filmoteka.netlify.app/"
+        >Filmoteka /Vue/</a
+      >
+      <span class="dots">............................</span>
+      <span
+        ><b>[</b>
+        <span class="tech-name"
+          >HTML5, CSS3, JavaScript, Axios, Vue.js, Vue router
+        </span>
+        <b>]</b></span
+      >
+    </li>
+    <li>
+      <a
+        target="blanc"
         href="https://ktm-phonebook.netlify.app/"
         >Phonebook /react/redux/</a
       >
