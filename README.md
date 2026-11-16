@@ -1,178 +1,208 @@
 
-
-<!--
-**katymykhailova/katymykhailova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=katymykhailova&color=blue">
+
+# Hallo, ich bin Kateryna! 👋
+
+### Fullstack Entwicklerin | JavaScript · React · Vue.js · Node.js · Express.js
+
+Entwicklung moderner Webanwendungen – vom Frontend über Backend und Datenbanken bis zum Deployment.
+
+![Profile Views](https://komarev.com/ghpvc/?username=katymykhailova&color=blue)
+
 </div>
 
-<h1 align="center">Hi! My name's  Kateryna👋</h2>
-<h2 align="center">💬 About</h2>
-<p>Front-End developer</p>
+---
 
-<div>
-  <h3>Tech Skills</h3>
-  <ul>
-    <li>
-      <span class="sidebar-text">HTML5/CSS3/SASS/BEM</span>
-    </li>
-    <li>
-      <span class="sidebar-text">JavaScript Es6+</span>
-    </li>
-    <li>
-      <span class="sidebar-text">React.js/React router/React hooks</span>
-    </li>
-    <li>
-      <span class="sidebar-text">Redux/Redux Toolkit/Async Redux</span>
-    </li>
-    <li>
-      <span class="sidebar-text">Vue.js/Vue router</span>
-    </li>
-    <li>
-      <span class="sidebar-text">WebPack</span>
-    </li>
-    <li>
-      <span class="sidebar-text">Parcel</span>
-    </li>
-    <li>
-      <span class="sidebar-text">Handlebars</span>
-    </li>    
-    <li>
-      <span class="sidebar-text">REST API</span>
-    </li>
-    <li>
-      <span class="sidebar-text">NPM </span>
-    </li>
-    <li>
-      <span class="sidebar-text">Formik/Yup/React Hook Form/Axios/Emotion/Material-UI/Bootstrap/others...</span>
-    </li>
-    <li>
-      <span class="sidebar-text">Figma </span>
-    </li>
-  </ul>
-</div>
-<div class="sidebar-container">
-  <h3 class="sidebar-title">Soft Skills</h3>
-  <ul>
-    <li>
-      <span class="sidebar-text">Responsibility</span>
-    </li>
-    <li>
-      <span class="sidebar-text">Proactive</span>
-    </li>
-    <li>
-      <span class="sidebar-text">Scrum</span>
-    </li>
-    <li>
-      <span class="sidebar-text">Agile</span>
-    </li>
-    <li><span class="sidebar-text">GTD</span></li>
-    <li>
-      <span class="sidebar-text">Teamwork</span>
-    </li>
-  </ul>
-</div>
+## 👩‍💻 Über mich
 
-<div>
-  <h3>Projects</h3>
-  <ol>
-    <li>
-      <a
-        target="blanc"
-        href="https://katymykhailova.github.io/goit-markup-hw-final/"
-        >Web Studio</a
-      >
-      <span class="dots">......................................</span>
-      <span
-        ><b>[</b> <span class="tech-name">HTML5, CSS3, SASS, BEM</span>
-        <b>]</b></span
-      >
-    </li>
-    <li>
-      <a
-        target="blanc"
-        href="https://katymykhailova.github.io/codehunters-team-proj/"
-        >HellEN</a
-      >
-      <span class="dots">................................................</span>
-      <span
-        ><b>[</b>
-        <span class="tech-name">HTML5, CSS3, SASS, BEM</span>
-        <b>]</b></span
-      >
-    </li>
-    <li>
-      <a
-        target="blanc"
-        href="https://katymykhailova.github.io/ddt-js-project/"
-        >Filmoteka</a
-      >
-      <span class="dots"></span>..........................................<span>
-      <span
-        ><b>[</b>
-        <span class="tech-name"
-          >HTML5, CSS3, SASS, BEM, JavaScript, Axios, Parcel, Handlebars
-        </span>
-        <b>]</b></span
-      >
-    </li>
-    <li>
-      <a
-        target="blanc"
-        href="https://ktm-goit-react-hw-05-movies.netlify.app/"
-        >Filmoteka /react/</a
-      >
-      <span class="dots">............................</span>
-      <span
-        ><b>[</b>
-        <span class="tech-name"
-          >HTML5, CSS3, JavaScript, Axios, React.js, React router, React
-          hooks
-        </span>
-        <b>]</b></span
-      >
-    </li>
-    <li>
-      <a
-        target="blanc"
-        href="https://ktm-filmoteka.netlify.app/"
-        >Filmoteka /Vue/</a
-      >
-      <span class="dots">..............................</span>
-      <span
-        ><b>[</b>
-        <span class="tech-name"
-          >HTML5, CSS3, JavaScript, Axios, Vue.js, Vue router
-        </span>
-        <b>]</b></span
-      >
-    </li>
-    <li>
-      <a
-        target="blanc"
-        href="https://ktm-phonebook.netlify.app/"
-        >Phonebook /react/redux/</a
-      >
-      <span class="dots">...........</span>
-      <span
-        ><b>[</b>
-        <span class="tech-name">
-          HTML5, CSS3, JavaScript, Axios, React.js, React router, React hooks, Redux, Redux Toolkit, Async Thunk, Material-UI, React Hook Form, Yup
-         </span>
-        <b>]</b></span
-      >
-    </li>
-  </ol>
-</div>
+Ich bin **Fullstack-Entwicklerin** mit praktischer Erfahrung in der Entwicklung moderner Webanwendungen mit **React, Vue.js, TypeScript, JavaScript und Node.js**.
+
+Meine Schwerpunkte liegen in der Entwicklung interaktiver Benutzeroberflächen, modularer REST-APIs, der Datenbankintegration und der Automatisierung von Geschäftsprozessen.
+
+Ich habe sowohl an mikroservicebasierten Anwendungen gearbeitet als auch eigenständig eine umfangreiche **Intranet- und Reporting-Anwendung** konzipiert, entwickelt und mit Docker bereitgestellt.
+
+Darüber hinaus bringe ich langjährige Erfahrung in der ERP-Entwicklung, Prozessautomatisierung und IT-Administration mit.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- **Sprachen:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS
+- **Frameworks & Libraries:** React, Vue.js, Nuxt.js
+- **State Management:** Redux, Redux Toolkit, RTK Query, Redux Thunk
+- **Routing:** React Router, Vue Router
+- **Datenvisualisierung:** Recharts
+- **UI & Formulare:** Material UI, Bootstrap, React Hook Form, Formik, Yup, Emotion
+- **Weitere Technologien:** Axios, Handlebars, BEM
+- **Build Tools:** Vite, Webpack, Parcel
+
+### Backend & APIs
+
+- **Backend:** Node.js, Express.js
+- **Schnittstellen:** REST-APIs, Integration externer APIs
+- **Authentifizierung & Autorisierung:** JWT, LDAP, Active Directory, HTTP-only-Cookies, rollenbasierte Zugriffskontrolle
+- **Architektur:** Modulare Backend-Services, Microservices
+- **Datenverarbeitung:** Dynamische SQL-Abfragen, Filterung, Gruppierung und Aggregation
+- **Dateiverarbeitung:** PDF-Verarbeitung, Dateimanagement, Zugriff auf Netzwerkfreigaben
+
+### Datenbanken
+
+- IBM Db2
+- PostgreSQL
+- MySQL
+- MongoDB
+- Microsoft Access
+- SQL, ODBC
+
+### DevOps & Entwicklungstools
+
+- **Containerisierung:** Docker, Docker Compose, Multi-Stage-Builds
+- **Webserver & Betriebssysteme:** Nginx, Linux, Windows
+- **Versionsverwaltung:** Git, GitHub
+- **Testing & Codequalität:** Jest, ESLint
+- **Entwicklung:** VS Code, Postman, npm, Figma
+
+### IT & Automatisierung
+
+- Active Directory, Microsoft Exchange
+- Windows- und Systemadministration
+- ERP-Systeme und Geschäftsprozessautomatisierung
+- VBA, Microsoft Access
+- Netzwerkfreigaben (SMB/CIFS)
+- Integration externer Dienste (Google Ads, TikTok, YouTube)
+
+---
+
+## 🚀 Projekte
+
+### ⭐ Intranet- und Reporting-Anwendung
+
+**Eigenständig entwickelte Fullstack-Webanwendung zur Analyse und Visualisierung von Unternehmensdaten sowie zur zentralen Bereitstellung interner Ressourcen.**
+
+Das Projekt umfasst die vollständige Entwicklung einer modularen Webanwendung – von der Benutzeroberfläche über Backend-Services und Datenbankintegration bis zur containerisierten Bereitstellung.
+
+**Wichtige Funktionen:**
+
+- Interaktive Dashboards und Datenvisualisierungen
+- Dynamische Reports mit konfigurierbaren Filtern, Sortierung und Aggregation
+- Wiederverwendbarer SQL-Helper zur dynamischen Abfragegenerierung
+- Modulare REST-APIs mit Node.js und Express
+- IBM Db2-Anbindung über ODBC
+- LDAP-Authentifizierung und rollenbasierte Zugriffskontrolle
+- Webbasiertes Dateimanagement mit Suche und Filtern
+- PDF-Verarbeitung und Zugriff auf Netzwerkfreigaben (SMB/CIFS)
+- Containerisierte Bereitstellung mit Docker Compose und Nginx
+- Separate Entwicklungs-, Test- und Produktionskonfigurationen
+
+**Tech Stack:**
+
+`React 19` `JavaScript` `Vite` `Redux Toolkit` `RTK Query` `React Router` `Recharts` `SCSS` `Node.js 22` `Express.js` `IBM Db2` `SQL` `ODBC` `LDAP` `JWT` `Docker` `Docker Compose` `Nginx`
+
+🔗 **[GitHub Repository](https://github.com/katymykhailova/wp-app-public)**
+
+---
+
+## 💻 Weitere Webprojekte
+
+### 📱 Phonebook – React & Redux
+
+Kontaktverwaltungsanwendung mit React, Redux Toolkit und Formularvalidierung.
+
+**Technologien:**
+
+`React` `JavaScript` `Redux Toolkit` `Redux Thunk` `React Router` `Axios` `Material UI` `React Hook Form` `Yup`
+
+🔗 [Live-Demo](https://ktm-phonebook.netlify.app/)
+
+### 🎬 Filmoteka – React
+
+Webanwendung zur Suche und Anzeige von Filminformationen mit React und clientseitigem Routing.
+
+**Technologien:**
+
+`React` `React Router` `React Hooks` `JavaScript` `Axios` `HTML5` `CSS3`
+
+🔗 [Live-Demo](https://ktm-goit-react-hw-05-movies.netlify.app/)
+
+### 🎥 Filmoteka – Vue.js
+
+Film-Webanwendung mit Vue.js, Vue Router und API-Integration.
+
+**Technologien:**
+
+`Vue.js` `Vue Router` `JavaScript` `Axios` `HTML5` `CSS3`
+
+🔗 [Live-Demo](https://ktm-filmoteka.netlify.app/)
+
+### 🍿 Filmoteka – JavaScript
+
+Webanwendung zur Filmsuche mit dynamischer Darstellung von API-Daten und Template-Rendering.
+
+**Technologien:**
+
+`JavaScript` `Axios` `Parcel` `Handlebars` `HTML5` `CSS3` `SCSS` `BEM`
+
+🔗 [Live-Demo](https://katymykhailova.github.io/ddt-js-project/)
+
+### 🌐 Web Studio
+
+Responsive Unternehmenswebsite mit strukturiertem SCSS und BEM-Methodik.
+
+**Technologien:**
+
+`HTML5` `CSS3` `SCSS` `BEM`
+
+🔗 [Live-Demo](https://katymykhailova.github.io/goit-markup-hw-final/)
+
+### 📚 HellEN
+
+Responsive Website, entwickelt als Teamprojekt mit HTML, SCSS und BEM.
+
+**Technologien:**
+
+`HTML5` `CSS3` `SCSS` `BEM`
+
+🔗 [Live-Demo](https://katymykhailova.github.io/codehunters-team-proj/)
+
+---
+
+## 💼 Berufliche Schwerpunkte
+
+### Fullstack-Webentwicklung
+
+- Eigenständige Konzeption und Entwicklung modularer Webanwendungen
+- Entwicklung dynamischer Benutzeroberflächen mit React und Vue.js
+- Backend-Entwicklung mit Node.js, Express.js und TypeScript
+- Entwicklung und Integration von REST-APIs
+- Datenbankintegration und Optimierung von SQL-Abfragen
+- Authentifizierung, Autorisierung und Zugriffskontrolle
+- Containerisierung und Deployment mit Docker
+
+### ERP-Entwicklung & Prozessautomatisierung
+
+- Entwicklung und Anpassung betrieblicher ERP-Lösungen
+- Programmierung in 1C mit Elementen von Pascal, SQL und Visual Basic
+- Entwicklung von Datenbanken und Geschäftslogik
+- Automatisierung von Geschäftsprozessen und Reporting
+- Technische Betreuung und Administration betrieblicher Anwendungen
+
+---
+
+## 🤝 Persönliche Stärken
+
+- Eigenverantwortliches und selbstständiges Arbeiten
+- Analytisches Denken und strukturierte Problemlösung
+- Eigeninitiative und kontinuierliche Lernbereitschaft
+- Teamfähigkeit und Zuverlässigkeit
+- Qualitätsbewusstsein und Detailgenauigkeit
+- Agile Arbeitsmethoden (Scrum)
+
+---
+
+## 📫 Kontakt
+
+- **GitHub:** [github.com/katymykhailova](https://github.com/katymykhailova)
+- **LinkedIn:** [Kateryna Mykhailova](https://www.linkedin.com/in/kateryna-mykhailova)
+
