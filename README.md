@@ -101,6 +101,7 @@ Das Projekt umfasst die vollständige Entwicklung einer modularen Webanwendung �
 `React 19` `JavaScript` `Vite` `Redux Toolkit` `RTK Query` `React Router` `Recharts` `SCSS` `Node.js 22` `Express.js` `IBM Db2` `SQL` `ODBC` `LDAP` `JWT` `Docker` `Docker Compose` `Nginx`
 
 🔗 **[GitHub Repository](https://github.com/katymykhailova/wp-app-public)**
+
 🔗 [Live-Demo](https://wp-app.duckdns.org/)
 
 ---
